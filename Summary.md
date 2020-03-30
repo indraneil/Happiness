@@ -49,7 +49,7 @@ Don't assume that because you are an introvert you can't engage in the gratitude
 
 Any change is uncomfortable, but if your current situation sucks, then you must weather out the initial uncomfortabe hump to get out of the sucky situation.
 
-__My new happiness score is 28: It means I am happy and I know that that I am happy.__
+__My new happiness score is 28: It means I am happy and I know that that I am happy.__ This is an improvement from my initial score of 25. (see [measuring happiness](http://labs.psychology.illinois.edu/~ediener/Documents/Diener-Emmons-Larsen-Griffin_1985.pdf))
 
 ## How the notes are laid out
 * [Introduction](Introduction.md)
